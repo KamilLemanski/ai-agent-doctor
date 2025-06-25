@@ -1,0 +1,34 @@
+Poniższa macierz korelacji prezentuje wartości współczynnika Pearsona pomiędzy 21 zmiennymi demograficznymi, antropometrycznymi, biochemicznymi, czynnikami stylu życia oraz diagnozami chorobowymi w badanej kohorcie. Wartości korelacji przyjmują wartości od –1 do +1, gdzie:
+
++1 (ciemnoczerwony) oznacza idealną dodatnią liniową zależność,
+0 (neutralny kolor) – brak liniowego związku,
+–1 (ciemnoniebieski) – idealną ujemną liniową zależność.
+Na przekątnej macierzy widzimy wartości r=1 (każda zmienna skorelowana jest idealnie sama ze sobą).
+1. Zmienne demograficzne i antropometryczne
+
+Wiek: wykazuje umiarkowanie silne dodatnie korelacje z takimi wskaźnikami jak ciśnienie skurczowe (r≈0,55), ciśnienie rozkurczowe (r≈0,50), poziom glukozy (r≈0,45), cholesterol całkowity (r≈0,50) oraz z rozpoznaniami nadciśnienia (r≈0,60), cukrzycy (r≈0,55), choroby serca (r≈0,60) i choroby nerek (r≈0,75). Jednocześnie wiek ma lekko ujemny związek z HDL (r≈–0,30) i aktywnością fizyczną (r≈–0,25).
+Płeć: koreluje słabo (|r|<0,20) ze wszystkimi zmiennymi; największe wartości obserwujemy przy glukozie i cholesterolu (r≈0,15–0,18), co wskazuje, że w tej próbie nie ma dużych różnic między płciami w profilach metabolicznych.
+Wzrost i waga: silnie dodatnio skorelowane ze sobą (r≈0,75). Waga z kolei silnie wiąże się z BMI (r≈0,85) oraz umiarkowanie z poziomem trójglicerydów i cholesterolu całkowitego (r≈0,50–0,55).
+2. Parametry układu krążenia i biochemia
+
+Ciśnienie skurczowe / rozkurczowe: silnie dodatnio ze sobą powiązane (r≈0,90), a także z wiekiem, BMI i wagą.
+Cholesterol całkowity i LDL: niemal doskonała dodatnia korelacja (r>0,90), co jest zgodne z ich naturą biochemiczną.
+HDL: silnie ujemnie skorelowany z LDL i cholesterolem całkowitym (r≈–0,35 do –0,40), a także umiarkowanie ujemnie z wagą, BMI i trójglicerydami (r≈–0,25).
+Trójglicerydy: dodatnio związane z BMI, wagą, cholesterolem i LDL (r≈0,50), co odzwierciedla wzajemne powiązania profilu lipidowego.
+3. Styl życia i czynniki psychospołeczne
+
+Palenie: ujemnie skorelowane z HDL (r≈–0,30) oraz aktywnością fizyczną (r≈–0,20); słabo dodatnio z trójglicerydami i cholesterolem.
+Aktywność fizyczna: ujemnie powiązana z wagą, BMI, trójglicerydami oraz diagnozami chorób przewlekłych (otyłość, nadciśnienie), co sugeruje jej protekcyjny charakter.
+Stres: umiarkowanie dodatnio skorelowany z BMI, wagą i poziomem ciśnienia (r≈0,40–0,50), a także z historią poważnych chorób i nadciśnieniem.
+4. Wskaźniki ryzyka i choroby przewlekłe
+
+BMI, otyłość: bardzo silnie skorelowane (r>0,90), a także z wagą, trójglicerydami, cholesterolem i LDL (r≈0,60–0,75), co potwierdza typowe związki otyłości z niekorzystnym profilem lipidowym.
+Nadciśnienie: silnie dodatnio powiązane z wiekiem, ciśnieniem skurczowym/rozkurczowym, BMI i cholesterolem.
+Cukrzyca: dodatnie korelacje z glukozą (r>0,85), wiekiem, BMI i trójglicerydami (r≈0,50).
+Choroba serca: podobnie jak nadciśnienie, ściśle związana z wiekiem, BMI, cholesterolem całkowitym i LDL (r≈0,60–0,80).
+Choroba nerek: najsilniej powiązana z wiekiem (r≈0,75) i nadciśnieniem (r≈0,80), co odzwierciedla jej często wtórny charakter do długotrwałego nadciśnienia i zmian naczyniowych.
+Wnioski
+Siła związków demograficzno-klinicznych: wiek jest kluczowym czynnikiem ryzyka – koreluje z niemal wszystkimi chorobami przewlekłymi i niekorzystnym profilem metabolicznym.
+Rola adipometrii: waga i BMI centralnie wiążą się z lipidami, ciśnieniem oraz chorobami układu krążenia i metabolizmu.
+Profil lipidowy: LDL i cholesterol całkowity zachowują bardzo wysoką dodatnią zależność, natomiast HDL działa protekcyjnie i koreluje odwrotnie.
+Styl życia: wyższa aktywność fizyczna i brak nałogu palenia wykazują ochronny wpływ, obniżając ryzyko otyłości, zaburzeń lipidowych oraz ciśnienia.
