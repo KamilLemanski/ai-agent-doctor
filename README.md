@@ -36,6 +36,16 @@ Pandas
 
 Pickle
 
+-------------
+📊 Macierz korelacji:
+
+Na podstawie wygenerowanych danych wyjściowej oraz skalowaniu, stworzono macierz korelacji przestawiającą zależności pomiędzy danymi w aplikacji.
+Przygotowana macierz prezentuje wartości współczynnika Pearsona pomiędzy 21 zmiennymi demograficznymi, antropometrycznymi, biochemicznymi, czynnikami stylu życia oraz diagnozami chorobowymi w badanym zbiorze.
+
+Grafika przedstawiająca macierz: https://github.com/KamilLemanski/ai-agent-doctor/blob/main/corr.png
+
+Więcej informacji, analiz i wniosków na temat stworzonej macierzy korelacji znajdziesz w pliku macierz_korelacji.txt.
+
 ------------
 👉 Uruchomienie aplikacji online:
 
@@ -59,6 +69,10 @@ ai-agent-doctor/
 ├── dane_rekomendacyjne_500.csv # Sztucznie wygenerowane dane wejściowe
 
 ├── static/images              # Folder z wykorzystanymi grafikami
+
+├── corr.png                    # Grafika z macierzą korelacji
+
+├── macierz_korelacji.txt       # Analiza i wnioski z macierzy korelacji
 
 └── readme.md                   # Ten plik
 
