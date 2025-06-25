@@ -115,7 +115,7 @@ Streamlit: Użyj wpudowanego Streamlit Secrets w ustawieniach aplikacji i dodaj 
 
 2. Kliknij przycisk "🔍 Wykonaj analizę ryzyka".
 
-3. Poczekaj na przetworzenie danych. Na ekranie pojawi się tabela "📋 Analiza wyników badań" z procentowym ryzykiem i komentarzem AI.
+3. Poczekaj na przetworzenie danych. Na ekranie pojawi się analiza wyników badań z procentowym ryzykiem i komentarzem AI.
 
 4. Poniżej tabeli, jeśli zostaną spełnione odpowiednie warunki, zobaczysz sekcję "🩺 Dodatkowa diagnoza i rekomendacje".
 
