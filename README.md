@@ -39,7 +39,7 @@ Pickle
 -------------
 📊 Macierz korelacji:
 
-Na podstawie wygenerowanych danych wyjściowej oraz skalowaniu, stworzono macierz korelacji przestawiającą zależności pomiędzy danymi w aplikacji.
+Na podstawie wygenerowanych danych wyjściowej oraz skalowania cech, stworzono macierz korelacji przestawiającą zależności pomiędzy danymi w aplikacji.
 Przygotowana macierz prezentuje wartości współczynnika Pearsona pomiędzy 21 zmiennymi demograficznymi, antropometrycznymi, biochemicznymi, czynnikami stylu życia oraz diagnozami chorobowymi w badanym zbiorze.
 
 Grafika przedstawiająca macierz: https://github.com/KamilLemanski/ai-agent-doctor/blob/main/corr.png
