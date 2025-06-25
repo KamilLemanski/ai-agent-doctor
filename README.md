@@ -1,6 +1,6 @@
 AI - Ocena Ryzyka Chorób Przewlekłych
 
-Live App ➤ 
+Live App ➤ https://ai-agent-doctor-klemanski.streamlit.app
 
 AI Ocena Ryzyka Chorób Przewlekłych to prosty agent AI, który łączy w sobie kilka kluczowych dziedzin sztucznej inteligencji, tworząc platformę diagnostyczno-rekomendacyjną dla wyników badań użytkownika. 
 
@@ -49,7 +49,7 @@ Analiza i wnioski: https://github.com/KamilLemanski/ai-agent-doctor/blob/main/ma
 ------------
 👉 Uruchomienie aplikacji online:
 
-TUTAJ LINK
+https://ai-agent-doctor-klemanski.streamlit.app
 
 ------------
 📂 Folder structure:
