@@ -44,7 +44,7 @@ Przygotowana macierz prezentuje wartości współczynnika Pearsona pomiędzy 21 
 
 Grafika przedstawiająca macierz: https://github.com/KamilLemanski/ai-agent-doctor/blob/main/corr.png
 
-Więcej informacji, analiz i wniosków na temat stworzonej macierzy korelacji znajdziesz w pliku macierz_korelacji.txt.
+Analiza i wnioski: https://github.com/KamilLemanski/ai-agent-doctor/blob/main/macierz_korelacji.txt
 
 ------------
 👉 Uruchomienie aplikacji online:
