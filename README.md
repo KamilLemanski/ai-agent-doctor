@@ -52,7 +52,7 @@ Analiza i wnioski: https://github.com/KamilLemanski/ai-agent-doctor/blob/main/ma
 https://ai-agent-doctor-klemanski.streamlit.app
 
 ------------
-📂 Folder structure:
+📂 Struktura plików:
 
 ai-agent-doctor/
 
